@@ -1,4 +1,5 @@
 # Directory contains Alx 0x0D. SQL - Introduction Project Tasks
+![]{https://media.tenor.com/eJZbFUQUMzEAAAAM/nosql-power-rangers.gif}
 ## This project tests skills in SQL and MySQL
 
 ---
